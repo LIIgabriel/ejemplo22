@@ -1,2 +1,3 @@
 class Factura:
-    pass
+    def __init__(self,numero):
+        self.numero = numero
